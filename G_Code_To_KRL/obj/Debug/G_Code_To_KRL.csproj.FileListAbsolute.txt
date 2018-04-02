@@ -1,0 +1,20 @@
+C:\Users\Luka Ramaekers\source\repos\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.csprojResolveAssemblyReference.cache
+C:\Users\Luka Ramaekers\source\repos\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.Form1.resources
+C:\Users\Luka Ramaekers\source\repos\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.Properties.Resources.resources
+C:\Users\Luka Ramaekers\source\repos\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.csproj.GenerateResource.cache
+C:\Users\Luka Ramaekers\source\repos\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.csproj.CoreCompileInputs.cache
+C:\Users\Luka Ramaekers\source\repos\G_Code_To_KRL\G_Code_To_KRL\bin\Debug\G_Code_To_KRL.exe.config
+C:\Users\Luka Ramaekers\source\repos\G_Code_To_KRL\G_Code_To_KRL\bin\Debug\G_Code_To_KRL.exe
+C:\Users\Luka Ramaekers\source\repos\G_Code_To_KRL\G_Code_To_KRL\bin\Debug\G_Code_To_KRL.pdb
+C:\Users\Luka Ramaekers\source\repos\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.exe
+C:\Users\Luka Ramaekers\source\repos\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.pdb
+E:\G_Code_To_KRL\G_Code_To_KRL\bin\Debug\G_Code_To_KRL.exe.config
+E:\G_Code_To_KRL\G_Code_To_KRL\bin\Debug\G_Code_To_KRL.exe
+E:\G_Code_To_KRL\G_Code_To_KRL\bin\Debug\G_Code_To_KRL.pdb
+E:\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.csprojResolveAssemblyReference.cache
+E:\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.Properties.Resources.resources
+E:\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.csproj.GenerateResource.cache
+E:\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.csproj.CoreCompileInputs.cache
+E:\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.exe
+E:\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.pdb
+E:\G_Code_To_KRL\G_Code_To_KRL\obj\Debug\G_Code_To_KRL.Form_Main.resources
